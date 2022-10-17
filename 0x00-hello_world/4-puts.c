@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-/*
- * main - Entry point
- *
- * Return: always 0
+/**
+ * main - prints words Programming is like building multiligual puzzle
+ *Return: 0 if exited, or not a zero other wise
  */
 
 int main(void)
